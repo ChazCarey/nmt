@@ -1,0 +1,9 @@
+NMT evaluation framework
+Copyright 2022 Optum
+
+Project Description:
+====================
+Framework to compare different Machine Translation systems between each other
+
+Author(s):
+Anton Masalovich (TonyMas)

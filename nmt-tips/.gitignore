@@ -1,0 +1,9 @@
+lamtram
+preproc
+models
+data-prep
+fast_align
+lexicon
+data/train.unk.ja
+data/train.unk.en
+*.swp

@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+.idea/*
+build/*
+dist/*
+*.egg-info/*
+docs/build/*
+__pycache__
+.pytest_cache
+*.pyc
+jnmt
